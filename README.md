@@ -1,7 +1,7 @@
 - 👋 Hi, I’m John (@johnr02).
 - 👀 I’m interested in data analysis/anaytics and automation.
-- 🌱 I’m currently learning python programming.
-- 💞️ I’m looking to collaborate on python projects.
+- 🌱 I’m currently learning python 3 programming.
+- 💞️ I’m looking to collaborate on python 3 projects.
 - 📫 How to reach me ...
 
 <!---
